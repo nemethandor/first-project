@@ -2,3 +2,4 @@ Macska
 Kutya
 alap
 kalapos csicska
+Andor = buzi
